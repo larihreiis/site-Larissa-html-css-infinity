@@ -1,0 +1,26 @@
+main{
+    background-color: rgb(205, 107, 205);
+    display: flex;
+    justify-content: center;
+    height: 40vw;
+    align-items: center;
+}
+
+
+main>div{
+    margin: 10vw;
+}
+
+.conteudo{
+    background-color: rgb(218, 193, 212);
+}
+
+.image{
+    background-color: lightpink;
+}
+
+.foto{
+    border-radius: 50%;
+}
+
+
